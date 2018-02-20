@@ -1,5 +1,11 @@
 [My Computer]
+<<<<<<< HEAD
 My Computer = "10.105.0.161"
+||||||| merged common ancestors
+My Computer = "10.105.5.53"
+=======
+My Computer = "10.11.56.103"
+>>>>>>> 352c6ef98863b56e8277e1138ab80c5bce56ea05
 
 [Target]
 Target = "10.11.56.2"
